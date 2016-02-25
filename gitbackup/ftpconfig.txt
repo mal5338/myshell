@@ -1,0 +1,6 @@
+git
+git
+cd /home/git/repobak/workdir
+lcd d:\gitbackup
+mget
+bye
