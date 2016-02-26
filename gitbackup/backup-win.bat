@@ -1,0 +1,1 @@
+ftp -s:D:\GITBACKUP\script\option-win.txt

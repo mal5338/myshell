@@ -1,0 +1,8 @@
+open git.xahtss.com
+git
+git
+cd /home/git/repobak/workdir
+lcd D:\GITBACKUP
+prompt off
+mget *
+bye
